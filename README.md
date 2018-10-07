@@ -49,8 +49,8 @@ The Expressions, Classes and Modules, and Methods allow you to macro common Ruby
 
 ## Credit
 
-Max Brosnaham for Rufo
-the team responsible for RuboCop
-1024jp for creating CotEditor and script inspirations
+- Max Brosnaham for Rufo
+- the team responsible for RuboCop
+- 1024jp for creating CotEditor and script inspirations
 
 
